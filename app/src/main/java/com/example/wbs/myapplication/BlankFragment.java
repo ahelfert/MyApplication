@@ -66,7 +66,7 @@ public class BlankFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         String[] aktienlisteArray = {
-                "Adidas - Kurs: 73,45 €",
+                "Adidas - Kurs: 72,45 €",
                 "Allianz - Kurs: 145,12 €",
                 "BASF - Kurs: 84,27 €",
                 "Bayer - Kurs: 128,60 €",
